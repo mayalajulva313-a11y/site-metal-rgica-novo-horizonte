@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 96" role="img" aria-labelledby="title">
+  <title id="title">Metalúrgica Horizonte</title>
+  <g transform="translate(4 4)">
+    <path d="M12 0h56l12 12v56L68 80H12L0 68V12z" fill="#1F2937"/>
+    <path d="M14 14h52v52H14z" fill="#3776AB"/>
+    <path d="M18 48h44v6H18zM18 58h44v4H18z" fill="#FFD43B"/>
+    <path d="M18 44V26h6l8 10 8-10h6v18h-7v-7l-7 7-7-7v7z" fill="#FFFFFF"/>
+    <path d="M49 26h6v6h6v-6h6v18h-6v-6h-6v6h-6z" fill="#FFFFFF"/>
+  </g>
+  <text x="100" y="39" fill="#1F2937" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="4">METALÚRGICA</text>
+  <text x="98" y="76" fill="#3776AB" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="2">HORIZONTE</text>
+</svg>

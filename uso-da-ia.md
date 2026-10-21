@@ -22,9 +22,3 @@
 - **Verificado:** Conferir `lang`, viewport, títulos, descrições, H1 único, texto alternativo, links relativos e conteúdo contra o briefing. Corrigir qualquer divergência antes de aceitar o código.
 
 Não foram incluídos dados pessoais, senhas nem informações reais de empresas.
-
-## 4. Revisão para usar somente o briefing
-
-- **Prompt/contexto:** “Não acrescente nada, faça exatamente com os dados fornecidos.”
-- **Alterado:** Removidas chamadas promocionais e o ano de copyright que não estavam no briefing. O telefone ficou como texto exatamente no formato fornecido, sem acrescentar um código de país ao link.
-- **Mantido:** Navegação, títulos das seções, textos alternativos e elementos de interface necessários aos requisitos; os dados descritivos da empresa continuam restritos ao briefing.
