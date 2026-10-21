@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" role="img" aria-labelledby="title desc">
+  <title id="title">Peças metálicas de precisão</title>
+  <desc id="desc">Ilustração geométrica original de uma engrenagem, um eixo e peças usinadas.</desc>
+  <rect width="760" height="560" fill="#1f2937"/>
+  <path d="M0 440 760 340v220H0z" fill="#26394a"/>
+  <path d="M0 478 760 378M0 514 760 414M0 550 760 450" stroke="#3776ab" stroke-opacity=".25" stroke-width="2"/>
+  <g transform="translate(490 260)">
+    <circle r="144" fill="#3776ab"/><circle r="112" fill="#1f2937"/><circle r="78" fill="#ffd43b"/><circle r="42" fill="#1f2937"/>
+    <g fill="#3776ab"><path d="M-24-168h48v42h-48zM-24 126h48v42h-48zM126-24h42v48h-42zM-168-24h42v48h-42z"/><path d="m-137-120 34-34 30 30-34 34zM103 120l34-34 30 30-34 34zM103-120l30-34 34 34-34 30zM-137 120l30-34 34 34-30 30z"/></g>
+    <circle r="17" fill="#ffd43b"/>
+  </g>
+  <g transform="translate(90 120)"><path d="M0 40 185 0l76 42-184 44z" fill="#e5e7eb"/><path d="m77 86 184-44v188L77 274z" fill="#9aa8b5"/><path d="M0 40 77 86v188L0 228z" fill="#c8d0d7"/><path d="m32 57 31 18v111l-31-18z" fill="#3776ab"/><path d="m105 101 123-30v25l-123 30zM105 151l123-30v25l-123 30zM105 201l123-30v25l-123 30z" fill="#1f2937" fill-opacity=".72"/></g>
+  <g transform="translate(90 408)"><path d="m0 0 125-28 50 28-125 30z" fill="#ffd43b"/><path d="m50 30 125-30v66L50 96z" fill="#b4c0cb"/><path d="M0 0 50 30v66L0 66z" fill="#e5e7eb"/></g>
+  <path d="M34 34h52M34 34v52M726 34h-52M726 34v52" stroke="#ffd43b" stroke-width="3"/>
+</svg>
